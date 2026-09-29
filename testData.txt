@@ -1,0 +1,13 @@
+3
+电视 3
+SAMSUNG     1200    200
+Hisense     1300    200
+SHARP       1400    200
+电脑 3
+ROG         1500    200
+DELL        1600    200
+HUAWEI      1700    200
+洗衣机 3
+Haier       1800    200
+LittleSwan  1900    200
+Midea       2000    200

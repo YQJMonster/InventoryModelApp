@@ -1,0 +1,9 @@
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/InventoryModel.dir
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/InventoryModel_autogen_timestamp_deps.dir
+D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/InventoryModel_autogen.dir

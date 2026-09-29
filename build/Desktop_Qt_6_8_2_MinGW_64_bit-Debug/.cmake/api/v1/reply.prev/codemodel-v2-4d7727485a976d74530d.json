@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-95349dbc4ad22200c26e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "InventoryModel",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "InventoryModel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InventoryModel-Debug-8f24ca048e45c9205c15.json",
+					"name" : "InventoryModel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InventoryModel_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InventoryModel_autogen-Debug-356db647420fc7ca9b75.json",
+					"name" : "InventoryModel_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InventoryModel_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InventoryModel_autogen_timestamp_deps-Debug-1a2e8cffd196931256ef.json",
+					"name" : "InventoryModel_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "D:/Develep/Qt Projects/Beginner/InventoryModel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

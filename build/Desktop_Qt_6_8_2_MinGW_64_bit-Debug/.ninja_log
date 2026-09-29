@@ -1,0 +1,27 @@
+# ninja log v6
+13	236	7609720097059102	InventoryModel_autogen/timestamp	1443e525e6331b61
+13	236	7609720097059102	InventoryModel_autogen/mocs_compilation.cpp	1443e525e6331b61
+259	5145	7609720099513706	CMakeFiles/InventoryModel.dir/mainwindow.cpp.obj	4b0f5f927f37ecdf
+13	236	7609720097059102	D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/InventoryModel_autogen/timestamp	1443e525e6331b61
+13	236	7609720097059102	D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/InventoryModel_autogen/mocs_compilation.cpp	1443e525e6331b61
+239	4973	7609720099319840	CMakeFiles/InventoryModel.dir/InventoryModel_autogen/mocs_compilation.cpp.obj	3e351179fa375bd1
+270	1773	7609720099624093	CMakeFiles/InventoryModel.dir/dialog.cpp.obj	3a87978d4987c45a
+249	4894	7609720099420507	CMakeFiles/InventoryModel.dir/main.cpp.obj	43c41d958c32a834
+1641	5731	7609718860661423	CMakeFiles/InventoryModel.dir/linklist.cpp.obj	a50c10a22643d7a5
+5145	5436	7609720148375668	InventoryModel.exe	253377cf5365dd05
+6	553	7609725375653752	build.ninja	e8988a8b22fcd619
+1481	1603	7609718860182292	InventoryModel_autogen/EWIEGA46WW/qrc_icon.cpp	5107e9ecf505680c
+1481	1603	7609718860182292	D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/InventoryModel_autogen/EWIEGA46WW/qrc_icon.cpp	5107e9ecf505680c
+1666	1928	7609718860910444	CMakeFiles/InventoryModel.dir/InventoryModel_autogen/EWIEGA46WW/qrc_icon.cpp.obj	b646324583c4fbe9
+10	217	7609725731215418	InventoryModel_autogen/timestamp	1443e525e6331b61
+10	217	7609725731215418	InventoryModel_autogen/mocs_compilation.cpp	1443e525e6331b61
+10	217	7609725731215418	D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/InventoryModel_autogen/timestamp	1443e525e6331b61
+10	217	7609725731215418	D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/InventoryModel_autogen/mocs_compilation.cpp	1443e525e6331b61
+220	296	7609725733993065	InventoryModel_autogen/EWIEGA46WW/qrc_icon.cpp	5107e9ecf505680c
+220	296	7609725733993065	D:/Develep/Qt Projects/Beginner/InventoryModel/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/InventoryModel_autogen/EWIEGA46WW/qrc_icon.cpp	5107e9ecf505680c
+334	428	7609725734461261	CMakeFiles/InventoryModel.dir/InventoryModel_autogen/EWIEGA46WW/qrc_icon.cpp.obj	b646324583c4fbe9
+324	1820	7609725734315137	CMakeFiles/InventoryModel.dir/dialog.cpp.obj	3a87978d4987c45a
+305	4289	7609725734150180	CMakeFiles/InventoryModel.dir/main.cpp.obj	43c41d958c32a834
+296	4359	7609725734038271	CMakeFiles/InventoryModel.dir/InventoryModel_autogen/mocs_compilation.cpp.obj	3e351179fa375bd1
+315	4473	7609725734214033	CMakeFiles/InventoryModel.dir/mainwindow.cpp.obj	4b0f5f927f37ecdf
+4474	4757	7609725775796285	InventoryModel.exe	253377cf5365dd05
